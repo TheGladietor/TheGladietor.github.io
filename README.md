@@ -2,7 +2,7 @@
 
 I am a passionate Web Developer and Programming junky, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![<maxster_glad>'s Stats](https://github-readme-stats.vercel.app/api?username=maxster_glad&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Gladietor's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxster_glad&show_icons=true&theme=radical)
 
 ## 🚀 About Me
 
