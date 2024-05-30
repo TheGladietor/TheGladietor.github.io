@@ -2,7 +2,7 @@
 
 I am a passionate Web Developer and Programming junky, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![<maxster_glad>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<maxster_glad>'s Stats](https://github-readme-stats.vercel.app/api?username=<maxster_glad>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -15,7 +15,7 @@ I am a passionate Web Developer and Programming junky, driven by a curiosity for
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,Wordpress,windows,vscode,PHP,nodejs,MySQL,linux,js,figma,arduino,astro,c,cpp)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
